@@ -1,6 +1,7 @@
 body {
-  background: #342E37;
-  }
+  background: radial-gradient(circle, #8f8296, #46155f)
+  
+}
 
 .container {
   padding-top: 30px;
